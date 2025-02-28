@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklivewell=self.webpackChunklivewell||[]).push([[134],{3134:(e,t,i)=>{i.r(t),i.d(t,{default:()=>h});i(5043);var l=i(579);const h=function(){return(0,l.jsx)("div",{style:{height:"90vh"},children:(0,l.jsx)("iframe",{title:"Symptom Checker",src:"https://jatinnvaityy.github.io/last/",style:{width:"100%",height:"100%",border:"none"}})})}}}]);
+//# sourceMappingURL=134.0b1e0029.chunk.js.map
