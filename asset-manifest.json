@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LiveWell/static/css/main.4157cbcf.css",
-    "main.js": "/LiveWell/static/js/main.35f8e9d2.js",
+    "main.js": "/LiveWell/static/js/main.c2f07557.js",
     "static/js/628.cd10f2a9.chunk.js": "/LiveWell/static/js/628.cd10f2a9.chunk.js",
     "static/js/137.94b5775a.chunk.js": "/LiveWell/static/js/137.94b5775a.chunk.js",
     "static/js/846.4d73c8af.chunk.js": "/LiveWell/static/js/846.4d73c8af.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/sign.avif": "/LiveWell/static/media/sign.9aca5896ab41646a4242.avif",
     "index.html": "/LiveWell/index.html",
     "main.4157cbcf.css.map": "/LiveWell/static/css/main.4157cbcf.css.map",
-    "main.35f8e9d2.js.map": "/LiveWell/static/js/main.35f8e9d2.js.map",
+    "main.c2f07557.js.map": "/LiveWell/static/js/main.c2f07557.js.map",
     "628.cd10f2a9.chunk.js.map": "/LiveWell/static/js/628.cd10f2a9.chunk.js.map",
     "137.94b5775a.chunk.js.map": "/LiveWell/static/js/137.94b5775a.chunk.js.map",
     "846.4d73c8af.chunk.js.map": "/LiveWell/static/js/846.4d73c8af.chunk.js.map",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.4157cbcf.css",
-    "static/js/main.35f8e9d2.js"
+    "static/js/main.c2f07557.js"
   ]
 }
